@@ -1,11 +1,15 @@
 ---
-Name: Daniel Lee
 Title: Get involved
-output: HTML
+name: Daniel Lee
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  word_document: default
 ---
   
-  ### 1. Joining a PSU club
-  I chose to join Korean Student Association because it was a great opportunity to get close with the people from South Korea and making connections. Since the beginning of the semester, I needed people that I can ask about school life and tips that could be useful as a Freshman in Penn State University. 
+### 1. Joining a PSU club
+  I chose to join Korean Student Association because it was a great opportunity to get close with the people from South Korea and making connections. Since the beginning of the semester, I needed people that I can ask about school life and tips that could be useful as a Freshman in Penn State University.
 
 During the first meeting, we have introduced ourselves, and the original members introduced about the club specifically with their past achievements in penn state. It was very useful listening to their achievements because it gave me a brief idea of what the club would do this semester.
 
